@@ -1,4 +1,7 @@
-#walrus-showing {
+#walrus-showing, #content1, #content2 {
+  display: none;
+}
+#hide, #hide1, #hide2 {
   display: none;
 }
 .clickable {
